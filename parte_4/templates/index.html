@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitoring Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #2d2d2d;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+        }
+        .graph {
+            margin: 20px 0;
+            text-align: center;
+        }
+        img {
+            width: 80%;
+            max-width: 800px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Monitoring Dashboard</h1>
+    </header>
+
+    <div class="content">
+        <h2>Graphiques d'utilisation</h2>
+        {% for graph in graph_files %}
+        <div class="graph">
+            <h3>{{ graph.replace('_', ' ').replace('.svg', '').capitalize() }}</h3>
+            <img src="{{ url_for('static', filename=graph) }}" alt="{{ graph }}">
+        </div>
+        {% endfor %}
+    </div>
+<a href="/static/readme.html" target="_blank">
+  <button style="padding: 10px 20px; background-color: #2d89ef; color: white; border: none; border-radius: 8px; cursor: pointer;">
+    📄 Consulter le README
+  </button>
+</a>
+</body>
+</html>

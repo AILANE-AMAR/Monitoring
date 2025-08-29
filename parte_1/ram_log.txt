@@ -1,0 +1,1548 @@
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+                                                                                                                                                                               Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'
+Traceback (most recent call last):
+  File "/home/vboxuser/mini-projet/parte_1/collect.py", line 1, in <module>
+    import psutil
+ModuleNotFoundError: No module named 'psutil'

@@ -1,0 +1,1370 @@
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10752728
+Espace libre : 105862008
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10751992
+Espace libre : 105862744
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10752020
+Espace libre : 105862716
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10752196
+Espace libre : 105862540
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10752880
+Espace libre : 105861856
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10752868
+Espace libre : 105861868
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753012
+Espace libre : 105861724
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753016
+Espace libre : 105861720
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10752804
+Espace libre : 105861932
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10752996
+Espace libre : 105861740
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10752996
+Espace libre : 105861740
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753148
+Espace libre : 105861588
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753148
+Espace libre : 105861588
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753160
+Espace libre : 105861576
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753164
+Espace libre : 105861572
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753164
+Espace libre : 105861572
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753152
+Espace libre : 105861584
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753152
+Espace libre : 105861584
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753160
+Espace libre : 105861576
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753160
+Espace libre : 105861576
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753480
+Espace libre : 105861256
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753480
+Espace libre : 105861256
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10753484
+Espace libre : 105861252
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10754392
+Espace libre : 105860344
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10754396
+Espace libre : 105860340
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10754400
+Espace libre : 105860336
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10754400
+Espace libre : 105860336
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10754400
+Espace libre : 105860336
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10754404
+Espace libre : 105860332
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10754404
+Espace libre : 105860332
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10754404
+Espace libre : 105860332
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10754416
+Espace libre : 105860320
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10754464
+Espace libre : 105860272
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10754744
+Espace libre : 105859992
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10757032
+Espace libre : 105857704
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10757180
+Espace libre : 105857556
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762056
+Espace libre : 105852680
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762168
+Espace libre : 105852568
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762244
+Espace libre : 105852492
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762812
+Espace libre : 105851924
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762812
+Espace libre : 105851924
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762976
+Espace libre : 105851760
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762304
+Espace libre : 105852432
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762316
+Espace libre : 105852420
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762328
+Espace libre : 105852408
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762504
+Espace libre : 105852232
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762488
+Espace libre : 105852248
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762628
+Espace libre : 105852108
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762376
+Espace libre : 105852360
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762392
+Espace libre : 105852344
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762532
+Espace libre : 105852204
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762524
+Espace libre : 105852212
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10762644
+Espace libre : 105852092
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10763060
+Espace libre : 105851676
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10763264
+Espace libre : 105851472
+/home/vboxuser/mini-projet/parte_1/disque.sh: line 7: sqlite3: command not found
+Total espace disque : 122904144
+Espace utilisé : 10763456
+Espace libre : 105851280
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10763652
+Espace libre : 105851084
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10763776
+Espace libre : 105850960
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10763924
+Espace libre : 105850812
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764096
+Espace libre : 105850640
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764296
+Espace libre : 105850440
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764292
+Espace libre : 105850444
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764656
+Espace libre : 105850080
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764652
+Espace libre : 105850084
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10765492
+Espace libre : 105849244
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10765492
+Espace libre : 105849244
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764596
+Espace libre : 105850140
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764608
+Espace libre : 105850128
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764616
+Espace libre : 105850120
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764616
+Espace libre : 105850120
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764616
+Espace libre : 105850120
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764704
+Espace libre : 105850032
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764720
+Espace libre : 105850016
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764728
+Espace libre : 105850008
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764728
+Espace libre : 105850008
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764732
+Espace libre : 105850004
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764736
+Espace libre : 105850000
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764996
+Espace libre : 105849740
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10764996
+Espace libre : 105849740
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10765308
+Espace libre : 105849428
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 9815404
+Espace libre : 106799332
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 9815404
+Espace libre : 106799332
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 9815412
+Espace libre : 106799324
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 9815416
+Espace libre : 106799320
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 9815416
+Espace libre : 106799320
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 9815416
+Espace libre : 106799320
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 9815416
+Espace libre : 106799320
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 9815432
+Espace libre : 106799304
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 9815436
+Espace libre : 106799300
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 9815440
+Espace libre : 106799296
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 9855540
+Espace libre : 106759196
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066468
+Espace libre : 106548268
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066484
+Espace libre : 106548252
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066492
+Espace libre : 106548244
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066496
+Espace libre : 106548240
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066500
+Espace libre : 106548236
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066500
+Espace libre : 106548236
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066504
+Espace libre : 106548232
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066508
+Espace libre : 106548228
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066512
+Espace libre : 106548224
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066512
+Espace libre : 106548224
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066512
+Espace libre : 106548224
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066516
+Espace libre : 106548220
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066520
+Espace libre : 106548216
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066524
+Espace libre : 106548212
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066532
+Espace libre : 106548204
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066532
+Espace libre : 106548204
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066536
+Espace libre : 106548200
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066536
+Espace libre : 106548200
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066580
+Espace libre : 106548156
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066580
+Espace libre : 106548156
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066584
+Espace libre : 106548152
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066588
+Espace libre : 106548148
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066592
+Espace libre : 106548144
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066568
+Espace libre : 106548168
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066568
+Espace libre : 106548168
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066568
+Espace libre : 106548168
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066568
+Espace libre : 106548168
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066584
+Espace libre : 106548152
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066588
+Espace libre : 106548148
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066588
+Espace libre : 106548148
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10066592
+Espace libre : 106548144
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069572
+Espace libre : 106545164
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069576
+Espace libre : 106545160
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069580
+Espace libre : 106545156
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069580
+Espace libre : 106545156
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069580
+Espace libre : 106545156
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069580
+Espace libre : 106545156
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069584
+Espace libre : 106545152
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069584
+Espace libre : 106545152
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069584
+Espace libre : 106545152
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069592
+Espace libre : 106545144
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069592
+Espace libre : 106545144
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069596
+Espace libre : 106545140
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069584
+Espace libre : 106545152
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069588
+Espace libre : 106545148
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069920
+Espace libre : 106544816
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069940
+Espace libre : 106544796
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069948
+Espace libre : 106544788
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069956
+Espace libre : 106544780
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069964
+Espace libre : 106544772
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069972
+Espace libre : 106544764
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069976
+Espace libre : 106544760
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10069980
+Espace libre : 106544756
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070012
+Espace libre : 106544724
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070016
+Espace libre : 106544720
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070016
+Espace libre : 106544720
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070016
+Espace libre : 106544720
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070024
+Espace libre : 106544712
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070036
+Espace libre : 106544700
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070036
+Espace libre : 106544700
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070040
+Espace libre : 106544696
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070136
+Espace libre : 106544600
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070140
+Espace libre : 106544596
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070140
+Espace libre : 106544596
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070144
+Espace libre : 106544592
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070136
+Espace libre : 106544600
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070136
+Espace libre : 106544600
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070136
+Espace libre : 106544600
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070140
+Espace libre : 106544596
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10070140
+Espace libre : 106544596
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073704
+Espace libre : 106541032
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073624
+Espace libre : 106541112
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073632
+Espace libre : 106541104
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073648
+Espace libre : 106541088
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073676
+Espace libre : 106541060
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073676
+Espace libre : 106541060
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073676
+Espace libre : 106541060
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073696
+Espace libre : 106541040
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073700
+Espace libre : 106541036
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073704
+Espace libre : 106541032
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073704
+Espace libre : 106541032
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073712
+Espace libre : 106541024
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073716
+Espace libre : 106541020
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073724
+Espace libre : 106541012
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073724
+Espace libre : 106541012
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073724
+Espace libre : 106541012
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073724
+Espace libre : 106541012
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073724
+Espace libre : 106541012
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073980
+Espace libre : 106540756
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073984
+Espace libre : 106540752
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10073984
+Espace libre : 106540752
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10074008
+Espace libre : 106540728
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10074020
+Espace libre : 106540716
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10074044
+Espace libre : 106540692
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10074048
+Espace libre : 106540688
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10074048
+Espace libre : 106540688
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10074048
+Espace libre : 106540688
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10074052
+Espace libre : 106540684
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10074056
+Espace libre : 106540680
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10074056
+Espace libre : 106540680
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075616
+Espace libre : 106539120
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075616
+Espace libre : 106539120
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075620
+Espace libre : 106539116
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075628
+Espace libre : 106539108
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075676
+Espace libre : 106539060
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075668
+Espace libre : 106539068
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075668
+Espace libre : 106539068
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075672
+Espace libre : 106539064
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075680
+Espace libre : 106539056
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075680
+Espace libre : 106539056
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075680
+Espace libre : 106539056
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10087340
+Espace libre : 106527396
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10075844
+Espace libre : 106538892
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10076012
+Espace libre : 106538724
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Total espace disque : 122904144
+Espace utilisé : 10076152
+Espace libre : 106538584
+Total espace disque : 122904144
+Espace utilisé : 10076152
+Espace libre : 106538584
+Total espace disque : 122904144
+Espace utilisé : 10076300
+Espace libre : 106538436
+Total espace disque : 122904144
+Espace utilisé : 10076304
+Espace libre : 106538432
+Total espace disque : 122904144
+Espace utilisé : 10076308
+Espace libre : 106538428
+Total espace disque : 122904144
+Espace utilisé : 10076584
+Espace libre : 106538152
+Total espace disque : 122904144
+Espace utilisé : 10076476
+Espace libre : 106538260
+Total espace disque : 122904144
+Espace utilisé : 10076624
+Espace libre : 106538112
+Total espace disque : 122904144
+Espace utilisé : 10076840
+Espace libre : 106537896
+Total espace disque : 122904144
+Espace utilisé : 10076900
+Espace libre : 106537836
+Total espace disque : 122904144
+Espace utilisé : 10077184
+Espace libre : 106537552
+Total espace disque : 122904144
+Espace utilisé : 10077300
+Espace libre : 106537436
+Total espace disque : 122904144
+Espace utilisé : 10077472
+Espace libre : 106537264
+Total espace disque : 122904144
+Espace utilisé : 10077664
+Espace libre : 106537072
+Total espace disque : 122904144
+Espace utilisé : 10077864
+Espace libre : 106536872
+Total espace disque : 122904144
+Espace utilisé : 10078076
+Espace libre : 106536660
+Total espace disque : 122904144
+Espace utilisé : 10078076
+Espace libre : 106536660
+Total espace disque : 122904144
+Espace utilisé : 10077188
+Espace libre : 106537548
+Total espace disque : 122904144
+Espace utilisé : 10077060
+Espace libre : 106537676
+Total espace disque : 122904144
+Espace utilisé : 10077060
+Espace libre : 106537676
+Total espace disque : 122904144
+Espace utilisé : 10077064
+Espace libre : 106537672
+Total espace disque : 122904144
+Espace utilisé : 10077084
+Espace libre : 106537652
+Total espace disque : 122904144
+Espace utilisé : 10077088
+Espace libre : 106537648
+Total espace disque : 122904144
+Espace utilisé : 10077088
+Espace libre : 106537648
+Total espace disque : 122904144
+Espace utilisé : 10077088
+Espace libre : 106537648
+Total espace disque : 122904144
+Espace utilisé : 10077092
+Espace libre : 106537644
+Total espace disque : 122904144
+Espace utilisé : 10077096
+Espace libre : 106537640
+Total espace disque : 122904144
+Espace utilisé : 10077096
+Espace libre : 106537640
+Total espace disque : 122904144
+Espace utilisé : 10077096
+Espace libre : 106537640
+Total espace disque : 122904144
+Espace utilisé : 10077096
+Espace libre : 106537640
+Total espace disque : 122904144
+Espace utilisé : 10077104
+Espace libre : 106537632
+Total espace disque : 122904144
+Espace utilisé : 10076996
+Espace libre : 106537740
+Total espace disque : 122904144
+Espace utilisé : 10076988
+Espace libre : 106537748
+Total espace disque : 122904144
+Espace utilisé : 10076992
+Espace libre : 106537744
+Total espace disque : 122904144
+Espace utilisé : 10077968
+Espace libre : 106536768
+Total espace disque : 122904144
+Espace utilisé : 10077976
+Espace libre : 106536760
+Total espace disque : 122904144
+Espace utilisé : 10078004
+Espace libre : 106536732
+Total espace disque : 122904144
+Espace utilisé : 10078004
+Espace libre : 106536732
+Total espace disque : 122904144
+Espace utilisé : 10078008
+Espace libre : 106536728
+Total espace disque : 122904144
+Espace utilisé : 10078024
+Espace libre : 106536712
+Total espace disque : 122904144
+Espace utilisé : 10078028
+Espace libre : 106536708
+Total espace disque : 122904144
+Espace utilisé : 10078028
+Espace libre : 106536708
+Total espace disque : 122904144
+Espace utilisé : 10078028
+Espace libre : 106536708
+Total espace disque : 122904144
+Espace utilisé : 10078028
+Espace libre : 106536708
+Total espace disque : 122904144
+Espace utilisé : 10078068
+Espace libre : 106536668
+Total espace disque : 122904144
+Espace utilisé : 10078076
+Espace libre : 106536660
+Total espace disque : 122904144
+Espace utilisé : 10078076
+Espace libre : 106536660
+Total espace disque : 122904144
+Espace utilisé : 10078072
+Espace libre : 106536664
+Total espace disque : 122904144
+Espace utilisé : 10078072
+Espace libre : 106536664
+Total espace disque : 122904144
+Espace utilisé : 10078072
+Espace libre : 106536664
+Total espace disque : 122904144
+Espace utilisé : 10078084
+Espace libre : 106536652
+Total espace disque : 122904144
+Espace utilisé : 10078088
+Espace libre : 106536648
+Total espace disque : 122904144
+Espace utilisé : 10078080
+Espace libre : 106536656
+Total espace disque : 122904144
+Espace utilisé : 10078084
+Espace libre : 106536652
+Total espace disque : 122904144
+Espace utilisé : 10078096
+Espace libre : 106536640
+Total espace disque : 122904144
+Espace utilisé : 10078112
+Espace libre : 106536624
+Total espace disque : 122904144
+Espace utilisé : 10078116
+Espace libre : 106536620
+Total espace disque : 122904144
+Espace utilisé : 10078116
+Espace libre : 106536620
+Total espace disque : 122904144
+Espace utilisé : 10078116
+Espace libre : 106536620
+Total espace disque : 122904144
+Espace utilisé : 10081276
+Espace libre : 106533460
+Total espace disque : 122904144
+Espace utilisé : 10329536
+Espace libre : 106285200
+Total espace disque : 122904144
+Espace utilisé : 10329540
+Espace libre : 106285196
+Total espace disque : 122904144
+Espace utilisé : 10329560
+Espace libre : 106285176
+Total espace disque : 122904144
+Espace utilisé : 10329560
+Espace libre : 106285176
+Total espace disque : 122904144
+Espace utilisé : 10329572
+Espace libre : 106285164
+Total espace disque : 122904144
+Espace utilisé : 10329580
+Espace libre : 106285156
+Total espace disque : 122904144
+Espace utilisé : 10329588
+Espace libre : 106285148
+Total espace disque : 122904144
+Espace utilisé : 10329588
+Espace libre : 106285148
+Total espace disque : 122904144
+Espace utilisé : 10329588
+Espace libre : 106285148
+Total espace disque : 122904144
+Espace utilisé : 10329592
+Espace libre : 106285144
+Total espace disque : 122904144
+Espace utilisé : 10329592
+Espace libre : 106285144
+Total espace disque : 122904144
+Espace utilisé : 10329596
+Espace libre : 106285140
+Total espace disque : 122904144
+Espace utilisé : 10329596
+Espace libre : 106285140
+Total espace disque : 122904144
+Espace utilisé : 10329596
+Espace libre : 106285140
+Total espace disque : 122904144
+Espace utilisé : 10329596
+Espace libre : 106285140
+Total espace disque : 122904144
+Espace utilisé : 10328672
+Espace libre : 106286064
+Total espace disque : 122904144
+Espace utilisé : 10328680
+Espace libre : 106286056
+Total espace disque : 122904144
+Espace utilisé : 10328688
+Espace libre : 106286048
+Total espace disque : 122904144
+Espace utilisé : 10328688
+Espace libre : 106286048
+Total espace disque : 122904144
+Espace utilisé : 10328692
+Espace libre : 106286044
+Total espace disque : 122904144
+Espace utilisé : 10328692
+Espace libre : 106286044
+Total espace disque : 122904144
+Espace utilisé : 10328696
+Espace libre : 106286040
+Total espace disque : 122904144
+Espace utilisé : 10328696
+Espace libre : 106286040
+Total espace disque : 122904144
+Espace utilisé : 10328700
+Espace libre : 106286036
+Total espace disque : 122904144
+Espace utilisé : 10328700
+Espace libre : 106286036
+Total espace disque : 122904144
+Espace utilisé : 10328720
+Espace libre : 106286016
+Total espace disque : 122904144
+Espace utilisé : 10328724
+Espace libre : 106286012
+Total espace disque : 122904144
+Espace utilisé : 10343964
+Espace libre : 106270772
+Total espace disque : 122904144
+Espace utilisé : 10339440
+Espace libre : 106275296
+Total espace disque : 122904144
+Espace utilisé : 10349500
+Espace libre : 106265236
+Total espace disque : 122904144
+Espace utilisé : 10349228
+Espace libre : 106265508
+Total espace disque : 122904144
+Espace utilisé : 10349300
+Espace libre : 106265436
+Total espace disque : 122904144
+Espace utilisé : 10349312
+Espace libre : 106265424
+Total espace disque : 122904144
+Espace utilisé : 10349420
+Espace libre : 106265316
+Total espace disque : 122904144
+Espace utilisé : 10347168
+Espace libre : 106267568
+Total espace disque : 122904144
+Espace utilisé : 10340980
+Espace libre : 106273756
+Total espace disque : 122904144
+Espace utilisé : 10340980
+Espace libre : 106273756
+Total espace disque : 122904144
+Espace utilisé : 10340980
+Espace libre : 106273756
+Total espace disque : 122904144
+Espace utilisé : 10340984
+Espace libre : 106273752
+Total espace disque : 122904144
+Espace utilisé : 10340992
+Espace libre : 106273744
+Total espace disque : 122904144
+Espace utilisé : 10340996
+Espace libre : 106273740
+Total espace disque : 122904144
+Espace utilisé : 10380948
+Espace libre : 106233564
+Total espace disque : 122904144
+Espace utilisé : 10720968
+Espace libre : 105893768
+Total espace disque : 122904144
+Espace utilisé : 10720976
+Espace libre : 105893760
+Total espace disque : 122904144
+Espace utilisé : 10720980
+Espace libre : 105893756
+Total espace disque : 122904144
+Espace utilisé : 10720996
+Espace libre : 105893740
+Total espace disque : 122904144
+Espace utilisé : 10720996
+Espace libre : 105893740
+Total espace disque : 122904144
+Espace utilisé : 10721000
+Espace libre : 105893736
+Total espace disque : 122904144
+Espace utilisé : 10721024
+Espace libre : 105893712
+Total espace disque : 122904144
+Espace utilisé : 10721028
+Espace libre : 105893708
+Total espace disque : 122904144
+Espace utilisé : 10721028
+Espace libre : 105893708
+Total espace disque : 122904144
+Espace utilisé : 10721032
+Espace libre : 105893704
+Total espace disque : 122904144
+Espace utilisé : 10721036
+Espace libre : 105893700
+Total espace disque : 122904144
+Espace utilisé : 10721036
+Espace libre : 105893700
+Total espace disque : 122904144
+Espace utilisé : 10721352
+Espace libre : 105893384
+Total espace disque : 122904144
+Espace utilisé : 10726904
+Espace libre : 105887832
+Total espace disque : 122904144
+Espace utilisé : 10727272
+Espace libre : 105887464
+Total espace disque : 122904144
+Espace utilisé : 10727472
+Espace libre : 105887264
+Total espace disque : 122904144
+Espace utilisé : 10727456
+Espace libre : 105887280
+Total espace disque : 122904144
+Espace utilisé : 10727848
+Espace libre : 105886888
+Total espace disque : 122904144
+Espace utilisé : 10728108
+Espace libre : 105886628
+Total espace disque : 122904144
+Espace utilisé : 10728580
+Espace libre : 105886156
+Total espace disque : 122904144
+Espace utilisé : 10728512
+Espace libre : 105886224
+Total espace disque : 122904144
+Espace utilisé : 10728728
+Espace libre : 105886008
+Total espace disque : 122904144
+Espace utilisé : 10729236
+Espace libre : 105885500
+Total espace disque : 122904144
+Espace utilisé : 10729240
+Espace libre : 105885496
+Total espace disque : 122904144
+Espace utilisé : 10729368
+Espace libre : 105885368
+Total espace disque : 122904144
+Espace utilisé : 10728756
+Espace libre : 105885980
+Total espace disque : 122904144
+Espace utilisé : 10729248
+Espace libre : 105885488
+Total espace disque : 122904144
+Espace utilisé : 10729384
+Espace libre : 105885352
+Total espace disque : 122904144
+Espace utilisé : 10729276
+Espace libre : 105885460
+Total espace disque : 122904144
+Espace utilisé : 10729276
+Espace libre : 105885460
+Total espace disque : 122904144
+Espace utilisé : 10729280
+Espace libre : 105885456
+Total espace disque : 122904144
+Espace utilisé : 10729284
+Espace libre : 105885452
+Total espace disque : 122904144
+Espace utilisé : 10729828
+Espace libre : 105884908
+Total espace disque : 122904144
+Espace utilisé : 10729828
+Espace libre : 105884908
+Total espace disque : 122904144
+Espace utilisé : 10729860
+Espace libre : 105884876
+Total espace disque : 122904144
+Espace utilisé : 10729852
+Espace libre : 105884884
+Total espace disque : 122904144
+Espace utilisé : 10729856
+Espace libre : 105884880
+Total espace disque : 122904144
+Espace utilisé : 10729864
+Espace libre : 105884872
+Total espace disque : 122904144
+Espace utilisé : 10729864
+Espace libre : 105884872
+Total espace disque : 122904144
+Espace utilisé : 10729864
+Espace libre : 105884872
+Total espace disque : 122904144
+Espace utilisé : 10729876
+Espace libre : 105884860
+Total espace disque : 122904144
+Espace utilisé : 10729876
+Espace libre : 105884860
+Total espace disque : 122904144
+Espace utilisé : 10729888
+Espace libre : 105884848
+Total espace disque : 122904144
+Espace utilisé : 10729916
+Espace libre : 105884820
+Total espace disque : 122904144
+Espace utilisé : 10729916
+Espace libre : 105884820
+Total espace disque : 122904144
+Espace utilisé : 10729920
+Espace libre : 105884816
+Total espace disque : 122904144
+Espace utilisé : 10729988
+Espace libre : 105884748
+                                                                                    Total espace disque : 122904144
+Espace utilisé : 10758052
+Espace libre : 105856684
+Total espace disque : 122904144
+Espace utilisé : 10755800
+Espace libre : 105858936
+Total espace disque : 122904144
+Espace utilisé : 10840304
+Espace libre : 105774432
+Total espace disque : 122904144
+Espace utilisé : 10868584
+Espace libre : 105746152
+Total espace disque : 122904144
+Espace utilisé : 10870012
+Espace libre : 105744724
+Total espace disque : 122904144
+Espace utilisé : 11467380
+Espace libre : 105147164
+Total espace disque : 122904144
+Espace utilisé : 11703300
+Espace libre : 104911436
+Total espace disque : 122904144
+Espace utilisé : 11703152
+Espace libre : 104911584
+Total espace disque : 122904144
+Espace utilisé : 11707192
+Espace libre : 104907544
+Total espace disque : 122904144
+Espace utilisé : 11707196
+Espace libre : 104907540
+Total espace disque : 122904144
+Espace utilisé : 11706528
+Espace libre : 104908208
+Total espace disque : 122904144
+Espace utilisé : 11706960
+Espace libre : 104907776
+Total espace disque : 122904144
+Espace utilisé : 11707324
+Espace libre : 104907412
+Total espace disque : 122904144
+Espace utilisé : 11707708
+Espace libre : 104907028
+Total espace disque : 122904144
+Espace utilisé : 11707952
+Espace libre : 104906784
+Total espace disque : 122904144
+Espace utilisé : 11708216
+Espace libre : 104906520
+Total espace disque : 122904144
+Espace utilisé : 11708216
+Espace libre : 104906520
+Total espace disque : 122904144
+Espace utilisé : 11707980
+Espace libre : 104906756
+Total espace disque : 122904144
+Espace utilisé : 11708232
+Espace libre : 104906504
+Total espace disque : 122904144
+Espace utilisé : 11708320
+Espace libre : 104906416
+Total espace disque : 122904144
+Espace utilisé : 11708460
+Espace libre : 104906276
+Total espace disque : 122904144
+Espace utilisé : 11708452
+Espace libre : 104906284
+Total espace disque : 122904144
+Espace utilisé : 11708444
+Espace libre : 104906292
+Total espace disque : 122904144
+Espace utilisé : 11708756
+Espace libre : 104905980
+Total espace disque : 122904144
+Espace utilisé : 11711392
+Espace libre : 104903344
+Total espace disque : 122904144
+Espace utilisé : 11711680
+Espace libre : 104903056
+Total espace disque : 122904144
+Espace utilisé : 11711680
+Espace libre : 104903056
+Total espace disque : 122904144
+Espace utilisé : 11711764
+Espace libre : 104902972
+Total espace disque : 122904144
+Espace utilisé : 11716500
+Espace libre : 104898236
+Total espace disque : 122904144
+Espace utilisé : 11717156
+Espace libre : 104897580
+Total espace disque : 122904144
+Espace utilisé : 11730024
+Espace libre : 104884712
+Total espace disque : 122904144
+Espace utilisé : 11718760
+Espace libre : 104895976
+Total espace disque : 122904144
+Espace utilisé : 11721796
+Espace libre : 104892940
+Total espace disque : 122904144
+Espace utilisé : 11722056
+Espace libre : 104892680

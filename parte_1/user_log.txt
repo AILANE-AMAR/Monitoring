@@ -1,0 +1,593 @@
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 2
+/home/vboxuser/mini-projet/parte_1/collect.sh: line 3: sqlite3: command not found
+Le nombre de USER est : 3
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Error: unable to open database "/home/amar/mini-projet/monitoring.db": unable to open database file
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+                          Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
+Le nombre de USER est : 2
